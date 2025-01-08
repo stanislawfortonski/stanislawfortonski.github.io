@@ -1,4 +1,4 @@
-# stanfortonski.github.io
+# stanislawfortonski.github.io
 ## Web samples by Stanisław Fortoński
 
 List of examples:
